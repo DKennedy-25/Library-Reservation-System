@@ -1,8 +1,9 @@
 # Library Reservation System
 
-A Library Book Reservation System built with PHP + MySQL (XAMPP).
+#### A Library Book Reservation System built with PHP + MySQL (XAMPP).
 
-I used MySQL to create a functional database to log users, books, categories of books and reservations. PHP files  included HTML headings to build the site, and CSS was used to style the site in a simple and easy to understand format.
+#### I used MySQL to create a functional database to log users, books, categories of books and reservations. PHP files  included
+#### HTML headings to build the site, and CSS was used to style the site in a simple and easy to understand format.
 ---
 
 ## Screenshots
